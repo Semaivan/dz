@@ -5,6 +5,7 @@ import (
 	"math/rand"
 )
 
+// начало программы
 func main() {
 	ch := make(chan int)
 	ch2 := make(chan int)
